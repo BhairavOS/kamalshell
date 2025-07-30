@@ -1,0 +1,13 @@
+{
+    "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.project.v1",
+    "id": "bhairavos/kamalshell",
+    "type": "project",
+    "version": "v0.1.0",
+    "description": "Beautiful🪷 and Responsive Graphical Shell for BhairavOS",
+    "extern": {
+        "bhairavos/kapalaframe": {
+            "git": "https://github.com/bhairavos/kapalaframe.git",
+            "tag": "main"
+        }
+    }
+}
